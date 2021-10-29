@@ -1,0 +1,5 @@
+PRINT "This is the basic of TUP Tiny Language."
+PRINT "Use this as a cheatsheet."
+# PRINT "Enter a number: "
+# INPUT number
+# PRINT number
